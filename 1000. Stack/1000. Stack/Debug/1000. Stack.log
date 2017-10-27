@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\短码之美\1000. stack\1000. stack\源.cpp(64): warning C4715: “Stack<int,15>::pop”: 不是所有的控件路径都返回值
+  1000. Stack.vcxproj -> F:\短码之美\1000. Stack\Debug\1000. Stack.exe
+  1000. Stack.vcxproj -> F:\短码之美\1000. Stack\Debug\1000. Stack.pdb (Partial PDB)
